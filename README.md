@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python Projects</b>
-  - [Lear Blower Sim]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/ArthurTheAardvar/Leaf-Blower))
+  - [Lear Blower Sim](https://github.com/ArthurTheAardvar/Leaf-Blower)
   - [Space Invaders](https://github.com/ArthurTheAardvar/Space-Invader)
   - [Lunar Lander](https://github.com/ArthurTheAardvar/Moon-Lander-Test-1)
   - [Simon](https://github.com/ArthurTheAardvar/Simon/blob/master/Simon/Simon.py)
